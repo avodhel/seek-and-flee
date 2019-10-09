@@ -9,7 +9,6 @@ extents = Vector2( 15.2552, 15.9309 )
 [node name="ai_seek_flee" type="Area2D"]
 position = Vector2( 247.269, 380.176 )
 script = ExtResource( 1 )
-mode = 1
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 2 )
